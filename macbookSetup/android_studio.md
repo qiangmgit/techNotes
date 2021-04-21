@@ -1,0 +1,3 @@
+# define NDK location
+in local.properties:
+ndk.dir=...
